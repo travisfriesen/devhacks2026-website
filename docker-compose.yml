@@ -1,0 +1,4 @@
+services:
+  devhacks:
+    build: .
+    ports: 0.0.0.0:80:80
